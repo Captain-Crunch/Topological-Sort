@@ -1,4 +1,4 @@
-# Implementation of topological sort order for a graph.
+# Implementation of topological sort.
 
 Input: 
 -------
